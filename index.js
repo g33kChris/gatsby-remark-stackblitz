@@ -10,7 +10,7 @@ module.exports = async({ markdownAST }, options = { width: 600, height: 300}) =>
         if (isStackblitzURI) {
         const { appId } = resolveApp(value);
 
-        console.log(`\n Embedding stackblitz app: ${appId} published \n`);
+        console.log(`\n Embedding stackblitz app: ${appId} \n`);
     
         node.type = 'html';
         node.value = `<div><iframe 
