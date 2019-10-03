@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "description": "Embed stackblitz apps in Gatsby Markdown.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": { "test": "jasmine" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/g33kChris/gatsby-remark-stackblitz.git"
@@ -25,5 +23,8 @@
   "homepage": "https://github.com/g33kChris/gatsby-remark-stackblitz#readme",
   "dependencies": {
     "unist-util-visit": "^2.0.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.5.0"
   }
 }
