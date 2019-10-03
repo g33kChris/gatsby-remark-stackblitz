@@ -1,0 +1,20 @@
+{
+  "name": "gatsby-remark-stackblitz",
+  "version": "0.1.0",
+  "description": "Embed stackblitz apps in Gatsby Markdown.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g33kChris/gatsby-remark-stackblitz.git"
+  },
+  "author": "Chris Wallace <chris@g33kchris.net>",
+  "license": "MIT",
+  "keywords": ["gatsby", "gatsby-plugin", "remark", "markdown", "stackblitz"],
+  "bugs": {
+    "url": "https://github.com/g33kChris/gatsby-remark-stackblitz/issues"
+  },
+  "homepage": "https://github.com/g33kChris/gatsby-remark-stackblitz#readme"
+}

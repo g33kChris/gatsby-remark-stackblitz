@@ -1,2 +1,2 @@
 # gatsby-remark-stackblitz
-Embed stackblitz apps in Gatsby Markdown
+Embed stackblitz apps in Gatsby Markdown.
