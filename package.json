@@ -12,9 +12,18 @@
   },
   "author": "Chris Wallace <chris@g33kchris.net>",
   "license": "MIT",
-  "keywords": ["gatsby", "gatsby-plugin", "remark", "markdown", "stackblitz"],
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "remark",
+    "markdown",
+    "stackblitz"
+  ],
   "bugs": {
     "url": "https://github.com/g33kChris/gatsby-remark-stackblitz/issues"
   },
-  "homepage": "https://github.com/g33kChris/gatsby-remark-stackblitz#readme"
+  "homepage": "https://github.com/g33kChris/gatsby-remark-stackblitz#readme",
+  "dependencies": {
+    "unist-util-visit": "^2.0.0"
+  }
 }
